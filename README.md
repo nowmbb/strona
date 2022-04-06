@@ -10,6 +10,6 @@ Do tej pory w Internecie doświadczyliśmy Web 1.0 i 2.0. Web 1.0 zapewniał sta
 
 Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejsze z nich:<br>
 [Bitcoin](https://nowmbb.github.io/Bitcoin/)<br>
-[Etherum](url)
-[Litecoin](url)
-[DogeCoin](url)
+[Etherum](url)<br>
+[Litecoin](url)<br>
+[DogeCoin](url)<br>
