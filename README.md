@@ -5,3 +5,7 @@ Kryptowaluty oparte są na technologii blockchain. Jest to sposób zapisu inform
 ## Co oznacza Web 3.0?
 
 Do tej pory w Internecie doświadczyliśmy Web 1.0 i 2.0. Web 1.0 zapewniał statyczne doświadczenie dla użytkowników bez możliwości tworzenia bogatych w treść stron, które mamy dzisiaj. Web 2.0 zbliżył nas do siebie dzięki mediom społecznościowym i dynamicznym stronom internetowym, ale kosztem centralizacji. Web 3.0. ma, dzięki blockchainowi zapewnić decentralizację, a także wolną tożsamość cyfrową i portfele kryptowalut.
+
+## Waluty
+
+Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejsze z nich:
