@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Krypto
 
 You can use the [editor on GitHub](https://github.com/nowmbb/strona/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
