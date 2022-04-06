@@ -8,8 +8,8 @@ Do tej pory w Internecie doświadczyliśmy Web 1.0 i 2.0. Web 1.0 zapewniał sta
 
 ## Waluty
 
-Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejsze z nich:
-[Bitcoin](url)
+Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejsze z nich:<br>
+[Bitcoin](https://nowmbb.github.io/Bitcoin/)<br>
 [Etherum](url)
 [Litecoin](url)
 [DogeCoin](url)
