@@ -25,4 +25,7 @@ Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejs
   <option value="doge">DOGE</option>
 </select>
 
-<input type="number" id="b">PLN</input>
+if (cur=btc){
+<input type="number" id="b">PLN=<output
+
+}
