@@ -13,19 +13,3 @@ Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejs
 [Etherum](url)<br>
 [Litecoin](url)<br>
 [DogeCoin](url)<br>
-
-## Kalkulator kryptowalut
-
-<label for="cur">Wybierz walutę:</label>
-
-<select name="cur" id="cur">
-  <option value="btc">BTC</option>
-  <option value="eth">ETH</option>
-  <option value="ltc">LTC</option>
-  <option value="doge">DOGE</option>
-</select>
-
-if (cur=btc){
-<input type="number" id="b">PLN=<output
-
-}
