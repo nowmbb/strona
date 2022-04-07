@@ -24,3 +24,5 @@ Obecnie bardzo często powstają coraz to nowe kryptowaluty. Oto najpopularniejs
   <option value="ltc">LTC</option>
   <option value="doge">DOGE</option>
 </select>
+
+<input type="number" id="b">PLN</input>
